@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Enerex.com⛽️⚡️
+- 🔭 I’m currently doing side projects
 - ⚛️ I’m a Vue/Nuxt web developer.
 - 🌱 I’m currently learning Web3 and Three.js
 - 🖊  I’m falling in love with Elixir and Rust
