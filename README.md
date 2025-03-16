@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I'm Kevin Coto, a passionate web developer with a focus on building modern, efficient, and scalable web applications.
+I'm Kevin Coto, a passionate web developer dedicated to building modern, efficient, and scalable web applications.
 
-- 🔭 **Current Projects**: Engaged in various side projects that challenge and expand my development skills.
-- ⚛️ **Tech Stack**: Proficient in Node.js and React, with experience in frameworks like Nest.js and Next.js. Recently exploring FastAPI for building high-performance APIs and Svelte for crafting dynamic user interfaces.
-- 🌱 **Learning Journey**: Currently diving into Three.js to enhance my 3D web development capabilities.
-- 🖊️ **New Interests**: Developing a growing appreciation for Elixir and its functional programming paradigm.
-- 👯 **Collaboration**: Eager to collaborate with multidisciplinary teams to create impactful solutions.
-- 📫 **Contact**: Feel free to reach out via email at [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com).
+- 🔭 **Current Endeavors**: Engaged in various side projects that challenge and expand my development skills.
+- 🛠️ **Core Technologies**:
+  - **Node.js & React**: Proficient in building scalable applications using Node.js and React, with experience in frameworks like Nest.js and Next.js.
+  - **FastAPI**: Developing high-performance APIs with FastAPI, benefiting from its automatic interactive documentation and robust security features.
+  - **Svelte**: Crafting dynamic user interfaces with Svelte, leveraging its compiler-based approach for enhanced performance and developer experience.
+- 🌱 **Exploring New Horizons**: Currently delving into Three.js to enrich my 3D web development skills and developing a growing appreciation for Elixir's functional programming paradigm.
+- 👯 **Collaboration**: Eager to work with multidisciplinary teams to create impactful solutions.
+- 📫 **Contact**: Reach out via email at [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com).
 
 **Recent Blog Posts**:
 
