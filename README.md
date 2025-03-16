@@ -9,8 +9,8 @@ I'm Kevin Coto, a passionate web developer with a keen interest in exploring new
 - 👯 **Collaboration**: Eager to collaborate with multidisciplinary teams to create impactful solutions.
 - 📫 **Contact**: Feel free to reach out via email at [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com).
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincotocarrera&layout=compact&theme=radical)
 
 *Let's connect and build something amazing together!*
