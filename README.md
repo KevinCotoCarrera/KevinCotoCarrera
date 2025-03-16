@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Kevin Coto, a passionate web developer with a keen interest in exploring new technologies and collaborating on innovative projects.
+I'm Kevin Coto, a passionate web developer with a focus on building modern, efficient, and scalable web applications.
 
 - 🔭 **Current Projects**: Engaged in various side projects that challenge and expand my development skills.
-- ⚛️ **Tech Stack**: Proficient in Node.js and React, with experience in frameworks like Nest.js and Next.js.
+- ⚛️ **Tech Stack**: Proficient in Node.js and React, with experience in frameworks like Nest.js and Next.js. Recently exploring FastAPI for building high-performance APIs and Svelte for crafting dynamic user interfaces.
 - 🌱 **Learning Journey**: Currently diving into Three.js to enhance my 3D web development capabilities.
 - 🖊️ **New Interests**: Developing a growing appreciation for Elixir and its functional programming paradigm.
 - 👯 **Collaboration**: Eager to collaborate with multidisciplinary teams to create impactful solutions.
