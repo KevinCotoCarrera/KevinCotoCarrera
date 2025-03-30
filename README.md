@@ -13,12 +13,8 @@ I'm Kevin Coto, a passionate web developer dedicated to building modern, efficie
 
 **Recent Blog Posts**:
 
-- [Yeah Leetcode without Google or LLM Part 1 (35. Search Insert Position)](https://dev.to/kevincoto/yeah-leetcode-without-google-or-llm-part-1-35-search-insert-position) - *Mar 14, 2025*
-- [Destructuring in function parameters](https://dev.to/kevincoto/destructuring-in-function-parameters) - *Aug 28, 2024*
-- [From software developer to waiter in Dubai](https://dev.to/kevincoto/from-software-developer-to-waiter-in-dubai) - *Aug 28, 2024*
-- [A Vue Shorthand for Slots](https://dev.to/kevincoto/a-vue-shorthand-for-slots) - *Jun 20, 2022*
-- [Simple guide of Flexbox in Real Life Part #2](https://dev.to/kevincoto/simple-guide-of-flexbox-in-real-lifepart-2) - *Jun 18, 2021*
-- [Simple guide of Flexbox in Real Life](https://dev.to/kevincoto/simple-guide-of-flexbox-in-real-life) - *May 17, 2021*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 For more articles, visit my [DEV Community profile](https://dev.to/kevincoto).
 
