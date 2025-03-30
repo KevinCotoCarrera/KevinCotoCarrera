@@ -14,6 +14,11 @@ I'm Kevin Coto, a passionate web developer dedicated to building modern, efficie
 **Recent Blog Posts**:
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Cloudflare Turnstile with SvelteKit: A Simple Guide](https://dev.to/kevincoto/using-cloudflare-turnstile-with-sveltekit-a-simple-guide-398k)
+- [Yeah Leetcode without Google or LLM Part 1 &lpar;35. Search Insert Position&rpar;](https://dev.to/kevincoto/yeah-leetcode-without-google-or-llm-part-1-35-search-insert-position-4gpl)
+- [Destructuring in function parameters](https://dev.to/kevincoto/destructuring-in-function-parameters-5gkb)
+- [From software developer to waiter in Dubai](https://dev.to/kevincoto/from-software-developer-to-waiter-in-dubai-gfe)
+- [A Vue Shorthand for Slots](https://dev.to/kevincoto/a-vue-shorthand-for-slots-ndh)
 <!-- BLOG-POST-LIST:END -->
 
 For more articles, visit my [DEV Community profile](https://dev.to/kevincoto).
