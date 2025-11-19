@@ -29,9 +29,9 @@ I don't just write code; I build businesses. Here are my latest ventures:
 - **FastAPI & Django**: Crafting high-performance Python APIs with robust security.
 - **AI & Automation**: Integrating LLMs via **AI Agents** and orchestrating pipelines with **n8n**.
 
----
-📫 **Contact**: [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com)  
-📝 **Articles**: [DEV Community](https://dev.to/kevincoto)
+| 📫 **Contact** | 📝 **Articles** |
+|----------------|-----------------|
+| [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com) | [DEV Community](https://dev.to/kevincoto) |
 
 ---
 
@@ -39,9 +39,10 @@ I don't just write code; I build businesses. Here are my latest ventures:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincotocarrera&layout=compact&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincotocarrera&layout=compact&theme=radical" />
 
 </div>
-
-
