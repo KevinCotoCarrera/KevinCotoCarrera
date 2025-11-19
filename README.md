@@ -30,11 +30,18 @@ I don't just write code; I build businesses. Here are my latest ventures:
 - **AI & Automation**: Integrating LLMs via **AI Agents** and orchestrating pipelines with **n8n**.
 
 ---
+📫 **Contact**: [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com)  
+📝 **Articles**: [DEV Community](https://dev.to/kevincoto)
 
+---
 
-📫 **Contact**: [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com) | 📝 **Articles**: [DEV Community](https://dev.to/kevincoto)
+<div align="center">
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevincotocarrera&layout=compact&theme=radical)
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincotocarrera&layout=compact&theme=radical" height="180" />
+
+</div>
 
 
