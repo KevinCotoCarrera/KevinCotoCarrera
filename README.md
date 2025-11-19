@@ -30,12 +30,12 @@ I don't just write code; I build businesses. Here are my latest ventures:
 - **AI & Automation**: Integrating LLMs via **AI Agents** and orchestrating pipelines with **n8n**.
 
 
-<div align="center">
 | 📫 **Contact** | 📝 **Articles** |
 |----------------|-----------------|
 | [kevincoto2002@gmail.com](mailto:kevincoto2002@gmail.com) | [DEV Community](https://dev.to/kevincoto) |
 
 ---
+<div align="center">
 
 ### 📊 GitHub Stats
 
