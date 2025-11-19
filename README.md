@@ -47,6 +47,3 @@ I don't just write code; I build businesses. Here are my latest ventures:
 <img src="https://github-readme-stats.vercel.app/api?username=kevincotocarrera&show_icons=true&theme=radical" />
 
 </div>
-
-<b
-</div>
